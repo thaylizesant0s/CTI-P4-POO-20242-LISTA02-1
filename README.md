@@ -30,4 +30,4 @@ O Capítulo 5 foca nas estruturas de repetição, essenciais para a execução d
 - **Estrutura de repetição `WHILE`**: utilização do `while` quando o número de iterações não é conhecido de antemão.
 - **Estrutura de repetição `DO-WHILE`**: exemplo de repetição com condição que é testada após a execução do bloco de código.
 
-As questões desteS capítuloS foram resolvidas de forma prática e objetiva, visando consolidar o entendimento sobre como e quando utilizar essas estruturas em Java.
+As questões destes capítulos foram resolvidas de forma prática e objetiva, visando consolidar o entendimento sobre como e quando utilizar essas estruturas em Java.
